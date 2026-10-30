@@ -1,0 +1,16 @@
+Feature,Coefficient
+categorical__Condition_Good,-16744.927820643123
+categorical__Location_Urban,-12746.572142456222
+numeric__Bathrooms,-9662.248234351973
+categorical__Condition_Excellent,-3803.8829854071646
+categorical__Garage_No,-1186.7652894953064
+categorical__Location_Downtown,-27.65323073893368
+numeric__Area,-0.5757538426731398
+numeric__Bedrooms,76.78482652980097
+numeric__YearBuilt,117.61388472794624
+categorical__Condition_Poor,269.385944966071
+categorical__Garage_Yes,1186.7652894953019
+categorical__Location_Rural,1289.8887890512356
+categorical__Location_Suburban,11484.336584143935
+categorical__Condition_Fair,20279.42486108422
+numeric__Floors,23727.98363342826
